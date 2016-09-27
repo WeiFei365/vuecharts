@@ -1,2 +1,2 @@
-# vuecharts
+# vuecharts | coming soon...
 vue-echarts
